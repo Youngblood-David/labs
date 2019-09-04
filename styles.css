@@ -1,0 +1,45 @@
+body {
+  color: black;
+  background-color: gray;
+}
+  nav{
+    font-size: 20px;
+    color: lightblue;
+    text-align: center;
+
+  }
+h1 {
+
+  color: white;
+  text-align: center;
+}
+h3 {
+
+  color: yellow;
+
+}
+h4 {
+
+  color: yellow;
+}
+p {
+  color: white;
+
+}
+div{
+  color: lightblue;
+}
+
+.myClass
+{
+  color: yellow;
+  background-color: black;
+}
+
+#myID
+{
+  background-color white;
+  text-align: center; 
+  font-size: 12.5px;
+  color: red;
+}
