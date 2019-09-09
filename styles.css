@@ -1,14 +1,17 @@
 body {
-
-  background-color: silver;
+  margin: auto;
+  width: 75%;
+  padding: 10px;
 }
   nav{
-    font-size: 30px;
-    color: black;
-    text-align: center;}
-nav a    { text-decoration: none; }
+    font-size: 20px;
+    background-color: darkgray;
+    text-align: center;
+    text-decoration: none;
+    font: verdana;  }
 a {text-decoration: none;
-  color: darkred}
+font: verdana;
+color: white;  }
 h1 {
   background-color: black;
   color: white;
@@ -19,14 +22,27 @@ h2 {
   color: black;
   text-align: center;}
 h3 {
-  color: yellow;}
-h4 {
-  color: yellow;}
-p {
-  font-size: 25px;
-  color: white;}
-div{
   color: black;}
+h4 {
+  color: back;}
+p {
+  font-size: 20px;
+  color: darkgreen;}
+div{
+  color: black;
+}
+.logo {
+  text-align: center;
+  image-resolution: from-image;
+}
+.photo{
+  text-align: center;
+  image-resolution: from-image;
+}
+.banner{
+  text-align: center;
+  image-resolution: from-image;
+}
 .myClass
 {
   font-size: 20px;
