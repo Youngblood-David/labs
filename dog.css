@@ -1,0 +1,146 @@
+body{  background-color: rgb(101,157,189);
+  width: 90%;
+  margin: auto;
+}
+[class* = "col-"]{
+  width: 100%;
+}
+@media only screen and (min-width: 768px) {
+  .col-1 {width: 8.33%;}
+  .col-2 {width: 16.66%;}
+  .col-3 {width: 25%;}
+  .col-4 {width: 33.33%;}
+  .col-5 {width: 41.66%;}
+  .col-6 {width: 50%;}
+  .col-7 {width: 58.33%;}
+  .col-8 {width: 66.66%;}
+  .col-9 {width: 75%;}
+  .col-10 {width: 83.33%;}
+  .col-11 {width: 91.66%;}
+  .col-12 {width: 100%;}
+}
+header{
+  color: white;
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 100px;
+  text-align: center;
+
+}
+nav {text-align: center;}
+nav a {
+  text-decoration: none;
+  text-align: center;
+  font-size: 200%;
+  font-family: Arial;
+  color: white;
+}
+h1{
+  clear: both;
+  font-family: Arial;
+  font-weight: Bold;
+  color: rgb(188,152,106);
+  background-color: white;
+}
+h2{
+  font-family: Arial;
+  font-weight: Bold;
+  color: rgb(188,152,106);
+  background-color: white;
+}
+h3{
+  font-family: Arial;
+  font-weight: Bold;
+  color: rgb(188,152,106);
+  background-color: white;
+}
+h4{
+  font-family: Arial;
+  font-weight: Bold;
+  color: rgb(188,152,106);
+  background-color: white;
+}
+p{
+  background-color: rgb(251,238,193);
+  font-family: Arial;
+  font-size: 125%;
+  color: rgb(141, 135,65);
+
+}
+ul{
+  background-color: rgb(251,238,193);
+  font-family: Arial;
+  font-size: 125%;
+  color: rgb(141, 135,65);
+  font-weight: bold;
+}
+a:hover {
+  background-color:rgb(218,173,134) ;
+  color: White;
+}
+.previous {
+  background-color: rgb(188,152,106);
+  color: white;
+  font-family: Arial;
+  text-decoration: none;
+  text-align: center;
+  font-size: 150%;
+}
+.next {
+  background-color: rgb(188,152,106);
+  color: white;
+  font-family: Arial;
+  text-decoration: none;
+  text-align: center;
+  font-size: 150%;
+}
+.logo{
+  float: left;
+  padding: 10px;
+  width: 18%
+}
+.navs{
+    margin-top: 50px;
+    float: left;
+    width: 70%;
+    padding: 10px;
+   clear:
+}
+.gs{
+  clear: both;
+  float: left;
+  width: 70%;
+  padding: 10px;
+  background-color: White;
+  height: 375px;
+  margin-bottom: 10px;
+}
+.gs2{
+  float: left;
+  width: 25%;
+  padding: 10px;
+  margin-bottom:10px;
+  background-color: white;
+}
+.cp{
+  clear: both;
+  float: left;
+  width: 25%;
+  padding: 10px;
+  margin-bottom:10px;
+  background-color: white;
+}
+.cp2{
+  float: left;
+  width: 70%;
+  padding: 10px;
+  margin-bottom: 10px;
+  background-color: White;
+}
+#myID
+{
+  clear: both;
+  background-color: white;
+  text-align: center;
+  font-size: 12.5px;
+  color: rgb(188,152,106);
