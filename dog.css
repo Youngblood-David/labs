@@ -87,7 +87,7 @@ table{
 }
 tr, th, td{
   padding: 10px;
-  font-size: 1.1em;
+  font-size: 1em;
   color: white;
   font-family: Arial;
   border: 2px solid rgb(251,238,193);
@@ -169,7 +169,7 @@ a:hover {
 }
 #myID
 {
-  margin-left: 2.5%;  
+  margin-left: 2.5%;
   align-items: center;
   width: 95%;
   clear: both;
