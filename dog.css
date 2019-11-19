@@ -31,21 +31,10 @@ nav {text-align: center;}
 nav a {
   text-decoration: none;
   text-align: center;
-<<<<<<< HEAD
   font-size: 200%;
   font-family: Arial;
   color: white;
 }
-=======
-  font-size: 2em;
-  font-family: Arial;
-  color: white;
-}
-a {
-  padding: 0;
-  margin: 0;
-}
->>>>>>> eseo_changes
 h1{
   clear: both;
   font-family: Arial;
@@ -60,10 +49,6 @@ h2{
   background-color: white;
 }
 h3{
-<<<<<<< HEAD
-=======
-  padding-bottom: 0;
->>>>>>> eseo_changes
   font-family: Arial;
   font-weight: Bold;
   color: rgb(188,152,106);
@@ -78,7 +63,6 @@ h4{
 p{
   background-color: rgb(251,238,193);
   font-family: Arial;
-<<<<<<< HEAD
   font-size: 125%;
   color: rgb(141, 135,65);
 
@@ -92,44 +76,6 @@ ul{
 }
 a:hover {
   background-color:rgb(218,173,134) ;
-=======
-  font-size: 1.2em;
-  color: rgb(141, 135,65);
-
-}
-
-ul{
-  background-color: rgb(251,238,193);
-  font-family: Arial;
-  font-size: 1.2em;
-  color: rgb(141, 135,65);
-  font-weight: bold;
-}
-table{
-  background-color: rgb(101,157,189);
-  border: 2px solid rgb(251,238,193);
-  border-collapse: collapse;
-}
-tr, th, td{
-  padding: 10px;
-  font-size: 1em;
-  color: white;
-  font-family: Arial;
-  border: 2px solid rgb(251,238,193);
-  border-collapse: collapse;
-}
-form{
-  padding-top: 10px;
-  background-color: rgb(188,152,106);
-  font-size: 1em;
-  font-family: Arial;
-  color: white;
-  padding-left: 35px;
-  padding-bottom: 10px;
-}
-a:hover {
-  background-color:rgb(218,173,134);
->>>>>>> eseo_changes
   color: White;
 }
 .previous {
@@ -138,11 +84,7 @@ a:hover {
   font-family: Arial;
   text-decoration: none;
   text-align: center;
-<<<<<<< HEAD
   font-size: 150%;
-=======
-  font-size: 1.5em;
->>>>>>> eseo_changes
 }
 .next {
   background-color: rgb(188,152,106);
@@ -150,11 +92,7 @@ a:hover {
   font-family: Arial;
   text-decoration: none;
   text-align: center;
-<<<<<<< HEAD
   font-size: 150%;
-=======
-  font-size: 1.5em;
->>>>>>> eseo_changes
 }
 .logo{
   float: left;
@@ -181,10 +119,6 @@ a:hover {
   float: left;
   width: 25%;
   padding: 10px;
-<<<<<<< HEAD
-=======
-  padding-bottom: 31px;
->>>>>>> eseo_changes
   margin-bottom:10px;
   background-color: white;
 }
@@ -193,38 +127,20 @@ a:hover {
   float: left;
   width: 25%;
   padding: 10px;
-<<<<<<< HEAD
   margin-bottom:10px;
-=======
-  margin-bottom: 0;
->>>>>>> eseo_changes
   background-color: white;
 }
 .cp2{
   float: left;
   width: 70%;
   padding: 10px;
-<<<<<<< HEAD
-=======
-  padding-left: 0;
->>>>>>> eseo_changes
   margin-bottom: 10px;
   background-color: White;
 }
 #myID
 {
-<<<<<<< HEAD
   clear: both;
   background-color: white;
   text-align: center;
   font-size: 12.5px;
-=======
-  margin-left: 2.5%;
-  align-items: center;
-  width: 95%;
-  clear: both;
-  background-color: white;
-  text-align: center;
-  font-size: 0.9em;
->>>>>>> eseo_changes
   color: rgb(188,152,106);
