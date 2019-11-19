@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 <head>
+  <meta name="description" content="contact page">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="shortcut icon" type="image/x-icon" href="icon.jpg" />
 <title> ADL: Contact Page </title>
@@ -24,11 +25,14 @@
 <h3>Schedule an Appointment</h3>
 <form action="http://webdevbasics.net/scripts/demo.php" method="post">
 Last Name: <br>
-<input type="text" name="last name"><br>
+<input type="text" name="last name" pattern="[A-Za-z]{1,}"><br>
 First Name: <br>
-<input type="text" name="first name" > <br>
+<input type="text" name="first name"  pattern="[A-Za-z]{1,}"> <br>
 Email: <br>
 <input type="email" name="email"> <br>
+Age: <br>
+<input type="number" name="age" min="18" required> <br>
+<small>You must be at least 18</small>
 Phone Number: <br>
 <input type="tel" name="telephone" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" required> <br>
 <small>Format: 888-888-8888</small> <br>
